@@ -22,3 +22,5 @@ What does it detect
 This plugin was created because java is able to run more advanced analysis then paint style or validation plugin rules which are both written in mapcss so their usecase is more limited.
 
 Please for any issues, bugs but also feature ideas reach out to [Patrik_B](https://www.openstreetmap.org/user/Patrik_B) over HOT Slack or email at patrik.brigant@prague.msf.org
+
+For thirdpass validation you can also try https://github.com/MissingMaps/3rdPassJOSMRules additional rules for JOSM Validation plugin.
