@@ -7,7 +7,7 @@ JOSM plugin with set of quality checkers useful for 3rdpass validation on HOT Ta
 - Open JOSM and go to preferences {F12}
 - Toggle on Expert Mode in bottom left corner
 - Go to Plugins 
-  - Configure sites... -> Add -> https://raw.githubusercontent.com/MissingMaps/3rdPassJOSMPlugin/main/plugin.txt -> Okay
+  - Configure sites... -> Add -> "https://raw.githubusercontent.com/MissingMaps/3rdPassJOSMPlugin/main/plugin.txt" -> Okay
   - Download list
   - New plugin should appear called 3rdPassMM -> install as usual (check the box hit Okay on the bottom)
 
