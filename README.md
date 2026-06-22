@@ -19,6 +19,6 @@ What does it detect
 - Change in sandwich road classification. For example path - unclassified - path it will select the unclassified part of the highway
 - For better understanding you can download the "3rdPassMM_plugin_showcase.osm" file to see what it is supposed to detect
 
-This plugin was created because java is able to run more advanced analysis then paint style or validation plugin rules which are both written only in mapcss so their usecase is more limited.
+This plugin was created because java is able to run more advanced analysis then paint style or validation plugin rules which are both written in mapcss so their usecase is more limited.
 
-Please for any issues, bugs but also feature ideas reach out to [Patrik_B](https://www.openstreetmap.org/user/Patrik_B) over HOT Slack Patrik_B or email at patrik.brigant@prague.msf.org
+Please for any issues, bugs but also feature ideas reach out to [Patrik_B](https://www.openstreetmap.org/user/Patrik_B) over HOT Slack or email at patrik.brigant@prague.msf.org
