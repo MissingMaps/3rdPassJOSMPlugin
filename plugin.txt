@@ -1,1 +1,9 @@
-3rdPassMM.jar;0.3.0;19396;17;Patrik_B;https://raw.githubusercontent.com/MissingMaps/3rdPassJOSMPlugin/main/3rdPassMM.jar;3rd pass Missing Maps checks - residential areas without highway, multiple place nodes, highway classification mismatches
+3rdPassMM.jar;https://raw.githubusercontent.com/MissingMaps/3rdPassJOSMPlugin/main/3rdPassMM.jar
+	Manifest-Version: 1.0
+	Plugin-Class: org.openstreetmap.josm.plugins.thirdpassmm.ThirdPassMMPlugin
+	Plugin-Description: 3rd pass Missing Maps checks - residential areas without highway, multiple place nodes, highway classification mismatches
+	Plugin-Link: https://github.com/MissingMaps/3rdPassJOSMPlugin
+	Plugin-Mainversion: 19396
+	Plugin-Minimum-Java-Version: 17
+	Plugin-Version: v0.3.0
+	Author: Patrik_B
