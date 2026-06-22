@@ -1,0 +1,1 @@
+3rdPassMM.jar;0.3.0;19396;17;Patrik_B;https://raw.githubusercontent.com/MissingMaps/3rdPassJOSMPlugin/main/3rdPassMM.jar;3rd pass Missing Maps checks - residential areas without highway, multiple place nodes, highway classification mismatches
