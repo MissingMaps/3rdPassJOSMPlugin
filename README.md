@@ -18,6 +18,8 @@ What does it detect
 - Residential areas with more then 1 place node inside them
 - Change in sandwich road classification. For example path - unclassified - path it will select the unclassified part of the highway
 - For better understanding you can download the "3rdPassMM_plugin_showcase.osm" file to see what it is supposed to detect
+- Macro to toggle visibility of current layer, I recommend you to add a shortcut in JOSM preferences
+- Macro to add tasks into todolist, useful for multivalidation. Have your OSM layer[3] active and the tasks layer[2] under it, then press the button
 
 This plugin was created because java is able to run more advanced analysis then paint style or validation plugin rules which are both written in mapcss so their usecase is more limited.
 

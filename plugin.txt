@@ -6,5 +6,5 @@
 	Plugin-Link: https://github.com/MissingMaps/3rdPassJOSMPlugin
 	Plugin-Mainversion: 19396
 	Plugin-Minimum-Java-Version: 17
-	Plugin-Version: v0.5.0
+	Plugin-Version: v0.5.1
 	Author: Patrik_B
